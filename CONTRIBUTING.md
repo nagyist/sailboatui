@@ -137,7 +137,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/sailbo
 
 Checkout [this tutorial](https://github.com/firstcontributions/first-contributions) of how to contribute to any project.
 - Please note that we suggest using a branch name that follows the pattern 
-  ```<type of work, such as `bugfix`, `feature`, or `docs`>/<brief description of issue separated by the `-` character>_<user innitials>```
+  ```<type of work, such as `bugfix`, `feature`, or `docs`>/<brief description of issue separated by the `-` character>_<user initials>```
   Example: `feature/adding-cool-feature_TA`
 
 ### Improving The Documentation
